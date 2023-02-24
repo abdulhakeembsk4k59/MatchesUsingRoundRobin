@@ -1,0 +1,46 @@
+PS C:\Users\skaha\OneDrive\Desktop\Git\MatchesUsingRoundRobin>  & 'C:\Program
+ Files\Java\jdk1.8.0_144\bin\java.exe' '-cp' 'C:\Users\skaha\AppData\Roaming\
+Code\User\workspaceStorage\b511532b9fb978a223a95a42cb4638ec\redhat.java\jdt_w
+s\MatchesUsingRoundRobin_d2e3b9dc\bin' 'MatchesRoundRobin' 
+[team1, team2, team3, team4, team5]
+team1 VS team5
+Enter 0 if team team1 won else 1
+team1 won
+team2 VS team4
+Enter 0 if team team1 won else 1
+team2 won
+team2 VS team5
+Enter 0 if team team2 won else 1
+team2 won
+team3 VS team1
+Enter 0 if team team2 won else 1
+team2 won
+team3 VS team5
+Enter 0 if team team3 won else 1
+team1 won
+team4 VS team2
+Enter 0 if team team3 won else 1
+team2 won
+team4 VS team5
+Enter 0 if team team4 won else 1
+team1 won
+team1 VS team3
+Enter 0 if team team4 won else 1
+team2 won
+team1 VS team5
+Enter 0 if team team5 won else 1
+team1 won
+team2 VS team4
+Enter 0 if team team5 won else 1
+team2 won
+team1 won 4 matches
+team1 lost 1 matches
+team2 won 6 matches
+team2 lost -1 matches
+team3 won 0 matches
+team3 lost 5 matches
+team4 won 0 matches
+team4 lost 5 matches
+team5 won 0 matches
+team5 lost 5 matches
+PS C:\Users\skaha\OneDrive\Desktop\Git\MatchesUsingRoundRobin>
